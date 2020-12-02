@@ -1,0 +1,15 @@
+Button;obj/Release/res/layout/activity_main.xml
+dimen;obj/Release/res/values/dimens.xml
+dimen;obj/Release/res/values-w820dp/dimens.xml
+EditText;obj/Release/res/layout/activity_main.xml
+LinearLayout;obj/Release/res/layout/activity_main.xml
+RelativeLayout;obj/Release/res/layout/activity_main.xml
+resources;obj/Release/res/values/dimens.xml
+resources;obj/Release/res/values/strings.xml
+resources;obj/Release/res/values/styles.xml
+resources;obj/Release/res/values-v21/styles.xml
+resources;obj/Release/res/values-w820dp/dimens.xml
+string;obj/Release/res/values/strings.xml
+style;obj/Release/res/values/styles.xml
+style;obj/Release/res/values-v21/styles.xml
+TextView;obj/Release/res/layout/activity_main.xml

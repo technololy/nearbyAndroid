@@ -1,0 +1,15 @@
+Button;obj/Debug/res/layout/activity_main.xml
+dimen;obj/Debug/res/values/dimens.xml
+dimen;obj/Debug/res/values-w820dp/dimens.xml
+EditText;obj/Debug/res/layout/activity_main.xml
+LinearLayout;obj/Debug/res/layout/activity_main.xml
+RelativeLayout;obj/Debug/res/layout/activity_main.xml
+resources;obj/Debug/res/values/dimens.xml
+resources;obj/Debug/res/values/strings.xml
+resources;obj/Debug/res/values/styles.xml
+resources;obj/Debug/res/values-v21/styles.xml
+resources;obj/Debug/res/values-w820dp/dimens.xml
+string;obj/Debug/res/values/strings.xml
+style;obj/Debug/res/values/styles.xml
+style;obj/Debug/res/values-v21/styles.xml
+TextView;obj/Debug/res/layout/activity_main.xml
